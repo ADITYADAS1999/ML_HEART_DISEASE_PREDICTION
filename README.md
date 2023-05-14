@@ -17,6 +17,10 @@ Deploying a machine learning model of heart disease prediction on python flask f
 <b> `Css` </b>
 <b> `Flask framework` </b>
 
+# Project Dataset
+
+Download [DataSet](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data?select=heart_failure_clinical_records_dataset.csv) from kaggle
+
 # Project Licence ⚖
 
 This project follows the [MIT license](https://github.com/ADITYADAS1999/ML_HEART_DISEASE_PREDICTION/blob/main/LICENSE)
@@ -56,12 +60,14 @@ We love pull requests from anyone, from anywhere!
 
 By participating in this project, you agree to abide by the [Code Of Conduct](https://github.com/ADITYADAS1999/ML_HEART_DISEASE_PREDICTION/blob/main/Code%20of%20conduct.md).
 
+
+# Demo
+
+![2023-05-14 13-31-41](https://github.com/ADITYADAS1999/ML_HEART_DISEASE_PREDICTION/assets/58718316/ecfcb415-2e2b-4fc8-a4b6-84f9d6a4e48c)
+
+
 <h1 align=center> Project Admin</h1>
 <p align="center">
 <table align="center">
   <tbody><tr>
      <td align="center"><a href="https://github.com/ADITYADAS1999"><img alt="" src="https://avatars.githubusercontent.com/ADITYADAS1999" width="125px;"><br><sub><b> Aditya Das </b></sub></a><br></td> </a></td>
-
-
-
-</tbody></table>
